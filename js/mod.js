@@ -1,6 +1,6 @@
 const mod = {
     primaryName: "ω",
-    secondaryName: "Engine",
+    secondaryName: "Layers\n(more stuff edition)",
     version: "1.0.0",
     engineVer: "1.0.1", //DO NOT MODIFY
     debugMode: false,
@@ -21,6 +21,12 @@ const mod = {
             "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ",
             "ψϝϛͱϻϙͳϸ",
             ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
+        ]],
+        ["Combo",
+        [
+            "αβγδεζηθικλμνξοπρστυφχψωabcdefghijklmnopqrstuvwxyzΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            "ψϝϛͱϻϙͳϸðþȝƿəŋſÐÞȜǷƏŊ",
+            ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>"]
         ]],
         ["Latin",
         [
