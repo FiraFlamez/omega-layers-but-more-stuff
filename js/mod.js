@@ -34,6 +34,12 @@ const mod = {
             ["and", "a", "break"],
             ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>"]
         ]],
+        ["Elements (With FANDOMIUM extras)",
+        [
+            ["Nt", "H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Ca", "Al", "Si", "P", "S", "Cl", "Ar", "K", "Ca", "Sc", "Ti", "V", "Cm", "Mn", "Fe", "Co", "Ni", "Cu", "Zn", "Ga", "Ge", "As", "Se", "Br", "Kr", "Rb", "Sr", "Y", "Zr", "Nb", "Mo", "Tc", "Ru", "Ph", "Pd", "Ag", "Cd", "In", "Sn", "Sb", "Te", "I", "Xe", "Cs", "Ba", "La", "Ce", "Pr", "Nd", "Pm", "Sm", "Eu", "Gd", "Tb", "Dy", "Ho", "Er", "Tm", "Yb", "Lu", "Hf", "Ta", "W", "Re", "Os", "Ir", "Pt", "Au", "Hg", "Tl", "Pb", "Bi", "Po", "At", "Pn", "Fa", "Ra", "Ac", "Th", "Pa", "U", "Np", "Pu", "Am", "Cm", "Bk", "Cf", "Es", "Fm", "Md", "Lr", "Rf", "Db", "Sg", "Bh", "Hs", "Mt", "Ds", "Rg", "Cn", "Nh", "Fl", "Mc", "Lv", "Ts", "Og"],
+            ["e", "e-n", "mu", "mu-n", "tau", "tau-n". "not", "not-n"],
+            ["<span class='flipped-v'>Qi</span>", "<span class='flipped-v'>J</span>","<span class='flipped-v'>Fel</span>","<span class='flipped-v'>Poop.</span>]
+        ]],
         ["Latin",
         [
             "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
