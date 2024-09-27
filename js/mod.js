@@ -10,6 +10,7 @@ const mod = {
         ["Dark Alt (by Jeehan2561)", "css/themes/darkalt.css"],
         ["Modern", "css/themes/modern.css"],
         ["Light", "css/themes/light.css"],
+        ["Light Alt (by Fita)", "css/themes/lightalt.css"],
         ["Neon", "css/themes/neon.css"],
         ["Godot Blue", "css/themes/darkblue.css"],
         ["Halloween", "css/themes/spooky.css"],
@@ -30,8 +31,8 @@ const mod = {
         ]],
         ["Test",
         [
-            ["O", "m", "e", "g", "a", "?!", "<|{Ωη}♇♇♇♇♆(ϸϸϸϙ(ΩΣ))[♇♇(ϸϸϸϸϛ(Υ))]|>:♂(ͳ(Ωθ))[♀(ϸ(ΩΩΩρ))]"],
-            ["T", "e", "s", "t", "i", "n", "g", "-1/12"],
+            ["O", "m", "e", "g", "a", "?!", "<|{Ωη}♇♇♇♇♆(ϸϸϸϙ(ΩΣ))[♇♇(ϸϸϸϸϛ(Υ))]|>:♂(ͳ(Ωθ))[♀(ϸ(ΩΩΩρ))]", "<span class='flipped-v'>𐌒</span>"],
+            ["T", "e", "s", "t", "i", "n", "g", "-1/12", "ϙ", "𐌒"],
             ["‽", "⸘", "<span class='flipped-v'>Ψ</span>", "NOT FINISHED BTW DID YOU KNOW THAT?"]
         ]],
         ["Latin",
