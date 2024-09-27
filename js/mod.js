@@ -1,10 +1,10 @@
 const mod = {
     primaryName: "ω<sup>2</sup>",
-    secondaryName: "Layers (more stuff edition)",
-    version: "pre-1.0.4",
+    secondaryName: " Layers (more stuff edition)",
+    version: " pre-1.0.5",
     engineVer: "1.0.1", //DO NOT MODIFY
     debugMode: true,
-    Infinities: [new Decimal(2).pow(1024), new Decimal("1.8e30008"), new Decimal("1.8e300000008"), new Decimal("ee38")],
+    Infinities: [new Decimal(2).pow(1024), new Decimal("1.8e30008"), new Decimal("1.8e300000008"), new Decimal("ee38"), new Decimal("ee308")],
     themes: [
         ["Dark", "css/themes/dark.css"],
         ["Dark Alt (by Jeehan2561)", "css/themes/darkalt.css"],
@@ -21,43 +21,43 @@ const mod = {
         [
             "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ",
             "ψϝϛͱϻϙͳϸ",
-            ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
+            ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup>: 4</sup>","<span class='flipped-v'>Ω</span><sup>5<sub>4</sup></sup>"]
         ]],
         ["Combo",
         [
             "αβγδεζηθικλμνξοπρστυφχψωabcdefghijklmnopqrstuvwxyzΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩABCDEFGHIJKLMNOPQRSTUVWXYZ",
             "ψϝϛͱϻϙͳϸðþȝƿəŋſÐÞȜǷƏŊ",
-            ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>"]
+            ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>","<span class='flipped-v'>P</span>"]
         ]],
         ["Test",
         [
             ["O", "m", "e", "g", "a", "?!", "<|{Ωη}♇♇♇♇♆(ϸϸϸϙ(ΩΣ))[♇♇(ϸϸϸϸϛ(Υ))]|>:♂(ͳ(Ωθ))[♀(ϸ(ΩΩΩρ))]", "<span class='flipped-v'>𐌒</span>"],
             ["T", "e", "s", "t", "i", "n", "g", "-1/12", "ϙ", "𐌒"],
-            ["‽", "⸘", "<span class='flipped-v'>Ψ</span>", "NOT FINISHED BTW DID YOU KNOW THAT?"]
+            ["‽", "⸘", "<span class='flipped-v'>Ψ</span>", "<span class='flipped-v'>Υ</span>", "NOT FINISHED BTW DID YOU KNOW THAT?"]
         ]],
         ["Latin",
         [
             "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
             "ðþȝƿəŋſÐÞȜǷƏŊ",
-            "æœĳǉ"
+            "æœĳǉﬆ"
         ]],
         ["Alphabet",
         [
             "abcdefghijklmnopqrstuvwxyz",
             "123456789",
-            "ABCD"
+            "ABCDE"
         ]],
         ["Symbols",
         [
             '!"£$%^&*;:@',
             "<,[{}].>",
-            "+×÷^"
+            "+-×÷^"
         ]],
         ["Binary",
         [
             '01',
             "01",
-            "2345"
+            ["10", "11", "100", "101", "110"]
         ]],
         ["Random",
         [
