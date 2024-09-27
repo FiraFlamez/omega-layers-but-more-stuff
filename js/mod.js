@@ -1,5 +1,5 @@
 const mod = {
-    primaryName: "ω",
+    primaryName: "ω<sup>2</sup>",
     secondaryName: "Layers (more stuff edition)",
     version: "1.0.0",
     engineVer: "1.0.1", //DO NOT MODIFY
@@ -26,6 +26,12 @@ const mod = {
         [
             "αβγδεζηθικλμνξοπρστυφχψωabcdefghijklmnopqrstuvwxyzΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩABCDEFGHIJKLMNOPQRSTUVWXYZ",
             "ψϝϛͱϻϙͳϸðþȝƿəŋſÐÞȜǷƏŊ",
+            ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>"]
+        ]],
+        ["Test",
+        [
+            ["ABC", "NOWAY!"],
+            ["and", "a", "break"],
             ["<span class='flipped-v'>Z</span>", "<span class='flipped-v'>Ω</span>","<span class='flipped-v'>No</span>","<span class='flipped-v'>Wαγ!</span>"]
         ]],
         ["Latin",
