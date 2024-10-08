@@ -1,7 +1,7 @@
 const mod = {
     primaryName: "ω<sup>2</sup>",
     secondaryName: " Layers (more stuff edition)",
-    version: " pre-1.0.5",
+    version: " pre-1.0.6789",
     engineVer: "1.0.1", //DO NOT MODIFY
     debugMode: true,
     Infinities: [new Decimal(2).pow(1024), new Decimal("1.8e30008"), new Decimal("1.8e300000008"), new Decimal("ee38"), new Decimal("ee308")],
@@ -51,7 +51,7 @@ const mod = {
         [
             '!"£$%^&*;:@',
             "<,[{}].>",
-            "+-×÷^"
+            "+-×÷‽"
         ]],
         ["Binary",
         [
