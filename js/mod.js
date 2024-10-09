@@ -76,6 +76,7 @@ const mod = {
         ["Ubuntu", "css/fonts/ubuntu.css"],
         ["Comfortaa", "css/fonts/comfortaa.css"],
         ["Minecraft", "css/fonts/minecraft.css"],
+        ["Minecraft: Omega Layers Compatible", "css/fonts/minecraft-omega-layers-compatible.css"],
     ],
     saves: [
         ["Save 1", ""],
